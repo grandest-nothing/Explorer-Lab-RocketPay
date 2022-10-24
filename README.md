@@ -1,8 +1,8 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
-<p align="center">
-  ACESSE O MEU APP (https://rodox-pay.vercel.app)
-</p>
+<h3 align="center">
+  <a href="https://rodox-pay.vercel.app">Acesse Meu App</a>
+</h3>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
